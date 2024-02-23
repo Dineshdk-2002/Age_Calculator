@@ -14,13 +14,9 @@ Prerequisites
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/Dineshdk-2002/age-calculator.git
+git clone https://github.com/Dineshdk-2002/Age_Calculator
 Navigate to the project directory:
 
-bash
-Copy code
 cd age-calculator
 
 Usage
